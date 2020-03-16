@@ -1,4 +1,10 @@
 Project overview
+![](images/bamazon1.png)
+![](images/bamazon2.png)
+![](images/bamazon3.png)
+![](images/bamazon4.png)
+![](images/bamazon5.png)
+
 Bamazon is an Amazon-like store front that utilizes Node.js and MySQL. The app takes in orders from customers and depletes stock from the store's inventory.
 How it works
 Type node bamazonCustomer.js into the command line to start the app.
